@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "518866455298",
+    "firebase_url": "https://collibri2-0-default-rtdb.firebaseio.com",
+    "project_id": "collibri2-0",
+    "storage_bucket": "collibri2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518866455298:android:3d3f7ad8db6a08c142101b",
+        "android_client_info": {
+          "package_name": "com.example.collibri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518866455298-0u0n90237guid2g6i1tpkgfopn3gkcqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gIluEp8kTTi-ztwhYRUv2g2RrOJe0SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518866455298-0u0n90237guid2g6i1tpkgfopn3gkcqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518866455298:android:9ab58fdd0201a79142101b",
+        "android_client_info": {
+          "package_name": "com.example.collibri_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518866455298-0u0n90237guid2g6i1tpkgfopn3gkcqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gIluEp8kTTi-ztwhYRUv2g2RrOJe0SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518866455298-0u0n90237guid2g6i1tpkgfopn3gkcqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
